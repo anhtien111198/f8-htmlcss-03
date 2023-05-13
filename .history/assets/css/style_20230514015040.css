@@ -20,7 +20,6 @@ textarea,
 select,
 button {
     font-family: inherit;
-    font-size: inherit;
 }
 .container {
     width: 1170px;
@@ -668,7 +667,6 @@ button {
     padding: 0 10px;
     border: 1px solid #406181;
     border-radius: 4px;
-    color: #fff;
     background: transparent;
 }
 .footer-form__input::placeholder {
@@ -682,16 +680,4 @@ button {
     min-width: 108px;
     border-radius: 4px;
     font-size: 1.4rem;
-}
-.footer__copyright {
-    /* display: inline-block; */
-    padding-top: 28px;
-    border-top: 1px solid #406181;
-}
-.footer__copyright-text {
-    font-weight: 400;
-    font-size: 1.4rem;
-    line-height: 1.86;
-    text-align: center;
-    color: #aab3ba;
 }

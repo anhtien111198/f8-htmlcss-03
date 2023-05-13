@@ -668,7 +668,6 @@ button {
     padding: 0 10px;
     border: 1px solid #406181;
     border-radius: 4px;
-    color: #fff;
     background: transparent;
 }
 .footer-form__input::placeholder {
@@ -684,8 +683,6 @@ button {
     font-size: 1.4rem;
 }
 .footer__copyright {
-    /* display: inline-block; */
-    padding-top: 28px;
     border-top: 1px solid #406181;
 }
 .footer__copyright-text {
